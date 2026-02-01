@@ -3,3 +3,4 @@
 - Caesar cipher
 - Substrings
 - Stock Picker
+- Bubble Sort
